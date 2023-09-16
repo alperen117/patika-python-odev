@@ -1,0 +1,17 @@
+duzliste = []
+
+for eleman in list:
+  if isinstance(eleman,list):
+    duzliste.extend(flatten.eleman)
+  else:
+    duzliste.append(eleman)
+
+duzliste = []
+
+for eleman in list:
+  if isinstance(eleman,list):
+    duzliste.extend(reversed(eleman))
+  else:
+    duzliste.append(reversed(eleman)
+    
+  
